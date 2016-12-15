@@ -80,7 +80,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#28324e",
             "inverse": true,
             "showTitle": true,
@@ -115,13 +115,16 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             ".mbr-section-title SPAN": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "color": "#a7bfc2"
             },
             ".mbr-section-title": {
-              "font-size": "24px"
+              "font-size": "24px",
+              "color": "#a7bfc2"
             },
             ".mbr-section-text": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "color": "#ffffff"
             },
             ".mbr-section-text SPAN": {
               "font-size": "20px"

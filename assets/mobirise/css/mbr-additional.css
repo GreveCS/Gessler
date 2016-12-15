@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+#ext_menu-1 .navbar-toggler {
+  color: #000;
+}
+#form1-3 .mbr-section-title {
+  text-align: right;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
+}
+#form1-3 .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+#contacts1-5 P {
+  text-align: right;
+}
+#contacts1-5 STRONG {
+  text-align: right;
+}

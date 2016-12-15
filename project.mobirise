@@ -6,12 +6,12 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
-        "secondaryColor": "#f3c649",
-        "successColor": "#90a878",
+        "primaryColor": "#c1c1c1",
+        "secondaryColor": "#3d8eb9",
+        "successColor": "#475577",
         "infoColor": "#cccccc",
         "warningColor": "#2969b0",
-        "dangerColor": "#f28281",
+        "dangerColor": "#7e9b9f",
         "titleFont": "Open Sans",
         "subtitleFont": "Open Sans",
         "textFont": "Open Sans",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 20,
+    "uniqCompNum": 22,
     "versionPublish": "3.10.3",
     "favicon": "",
     "noImageResize": "",
@@ -67,12 +67,12 @@
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-7",
+          "_anchor": "header2-l",
           "_params": {
-            "imageSize": "48",
+            "imageSize": "26",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1428203107625-d12142b217e9-2000x1328-81.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1442406964439-e46ab8eff7c4-2000x1333-33.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -80,8 +80,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#000000",
+            "overlayOpacity": "0.5",
+            "overlayColor": "#28324e",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -92,8 +92,8 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/a4-1-1400x1979-34.jpg",
-              "link": "index.html",
+              "src": "@PROJECT_PATH@/assets/images/dgessler-w-1400x1681-30.jpg",
+              "link": "",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -110,20 +110,27 @@
               "size": 250
             }
           },
-          "title": "",
-          "text": "",
+          "title": "<br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"Coming together is a&nbsp;beginning, <br>keeping together is progress,&nbsp;working <br>together is success\" &nbsp;<span style=\"font-weight: normal;\">(Henry Ford)</span><br>",
+          "text": "<b style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">... in diesem </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sinne freue&nbsp;ich&nbsp;</span></b><b>mich </b><br><b>auf gute Zusammenarbeit!<br></b><b><br>Ihr <br>Daniel Gessler</b><br>GESSLER - PRESS FEEDING SYSTEMS",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
-            ".mbr-section-text": {
-              "font-size": "30px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            ".mbr-section-title SPAN": {
+              "font-size": "14px"
             },
             ".mbr-section-title": {
-              "font-size": "72px"
+              "font-size": "24px"
+            },
+            ".mbr-section-text": {
+              "font-size": "14px"
+            },
+            ".mbr-section-text SPAN": {
+              "font-size": "20px"
             },
             ".mbr-section-text B": {
-              "font-size": "23px"
+              "font-size": "17px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "14px"
             }
           }
         },
@@ -148,14 +155,14 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/zs-1-2000x623-61.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "columns": "2",
@@ -172,15 +179,15 @@
               "name": "phone",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#features4-b",
               "size": 98,
               "color": "black",
               "newWindow": false
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "BoTelefon<br>dsgsDGSDsldkjg",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Verkauf, Service und Training<br><br>Schweizer Unternehmen mit deutschen Partnern<br>Unser Erfolg<br><br>Unser Erfolg baut auf die Zusammenarbeit mit treuen und langjährigen Liefereranten aus der Schweiz und Deutschland mit denen wir gemeinsam unsere Produkte entwickeln.<br>Unsere Vorschübe<br><br>Unsere Vorschübe sind auf der ganzen Welt bei vielen namhaften Firmen im Einsatz. Neben dem Direktverkauf kommen zahlreiche Vorschübe bei Erstausrüstern, integriert in deren Produkten, zum Einsatz.<br>Unsere Kunden<br><br>Unsere Kunden sind Qualitätsanbieter in den Branchen Automotive, Elektronik, Kontakt- und Leitertechnik, Kosmetik, Pharma, Haushalt, Bautechnik, Verpackung, Uhren und viele mehr.&nbsp;<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -197,7 +204,7 @@
           },
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Leitbild<br>Vision<br><br>In der hochwertigen Vorschubtechnologie wollen wir weltweit zum führenden und gesuchten Lösungsanbieter werden.<br>Mission<br><br>Wir denken unternehmerisch und handeln kundenorientiert. Unser Know-how erweitern wir laufend zur Optimierung unserer Kern-<br>kompetenzen.<br>Strategie<br><br>Mit innovativen und kundenorientierten Lösungen etablieren wir uns in Europa, Asien und Amerika innerhalb der nächsten fünf Jahre zum führenden Qualitätsanbieter in der Vorschubtechnologie.<br>Kernkompetenzen<br><br>Entwicklung, Herstellung und Vermarktung von Qualitätsprodukten mit innovativer Technik und funktionsorientiertem Design.<br>Werte<br><br>Zehnder &amp; Sommer steht für Präzision, Know-how und Glaubwürdigkeit. Dabei legen wir Wert auf einen nachhaltigen Umgang mit unseren Ressourcen. Ebenso wichtig ist uns ein partnerschaftlicher Umgang mit Kunden, Mitarbeitenden und Lieferanten.&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -261,6 +268,127 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-k",
+          "_params": {
+            "columnsColor": "#ffffff",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vamco-600x480-53.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/zs-logo-600x117-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#232323"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
           "_inherit": "social-buttons1",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -278,11 +406,11 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7e9b9f",
-            "bgColorRadio": false,
+            "bgColor": "#475577",
+            "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
@@ -351,10 +479,10 @@
               "color": "#7e9b9f"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -379,32 +507,32 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#c1c1c1!important"
             }
           },
           "_name": "ext.menu",
           "_anchor": "ext_menu-e",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#7e9b9f",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gessler-logo-291x128-73.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gessler-logo-xs-349x128-37.jpg",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "",
               "link": "#top",
-              "title": "",
+              "title": "Gessler",
               "linkInNewWindow": false
             },
             "iconFont": {

@@ -69,7 +69,7 @@
           "_name": "header2",
           "_anchor": "header2-l",
           "_params": {
-            "imageSize": "41",
+            "imageSize": "40",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1442406964439-e46ab8eff7c4-2000x1333-33.jpg",
@@ -110,7 +110,7 @@
               "size": 250
             }
           },
-          "title": "<br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\"Coming together is a&nbsp;beginning, <br>keeping together is progress,&nbsp;working <br>together is success\"&nbsp;<span style=\"font-weight: normal;\">(Henry Ford)</span><br>",
+          "title": "<br><br>&nbsp;<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\"Coming together is a&nbsp;beginning, <br>keeping together is progress,&nbsp;working <br>together is success\"&nbsp;<span style=\"font-weight: normal;\">(Henry Ford)</span><br>",
           "text": "<b style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">... in diesem </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sinne freue&nbsp;ich&nbsp;</span></b><b>mich </b><br><b>auf gute Zusammenarbeit!<br></b><b>&nbsp;<br>Daniel Gessler</b><br>GESSLER - PRESS FEEDING SYSTEMS",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
@@ -119,7 +119,7 @@
               "color": "#a7bfc2"
             },
             ".mbr-section-title": {
-              "font-size": "22px",
+              "font-size": "21px",
               "color": "#a7bfc2"
             },
             ".mbr-section-text": {
@@ -550,7 +550,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GESSLER PRESS FEEDOMG SYSTEMS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-b\">ÜBER UNS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-b\">ANGEBOT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-k\">PARTNER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">KONTAKT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     },

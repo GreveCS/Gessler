@@ -69,7 +69,7 @@
           "_name": "header2",
           "_anchor": "header2-l",
           "_params": {
-            "imageSize": "26",
+            "imageSize": "41",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1442406964439-e46ab8eff7c4-2000x1333-33.jpg",
@@ -80,7 +80,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.7",
             "overlayColor": "#28324e",
             "inverse": true,
             "showTitle": true,
@@ -92,7 +92,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/dgessler-w-1400x1681-30.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dgessler-w-1400x849-92.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -110,8 +110,8 @@
               "size": 250
             }
           },
-          "title": "<br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"Coming together is a&nbsp;beginning, <br>keeping together is progress,&nbsp;working <br>together is success\" &nbsp;<span style=\"font-weight: normal;\">(Henry Ford)</span><br>",
-          "text": "<b style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">... in diesem </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sinne freue&nbsp;ich&nbsp;</span></b><b>mich </b><br><b>auf gute Zusammenarbeit!<br></b><b><br>Ihr <br>Daniel Gessler</b><br>GESSLER - PRESS FEEDING SYSTEMS",
+          "title": "<br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\"Coming together is a&nbsp;beginning, <br>keeping together is progress,&nbsp;working <br>together is success\"&nbsp;<span style=\"font-weight: normal;\">(Henry Ford)</span><br>",
+          "text": "<b style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">... in diesem </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sinne freue&nbsp;ich&nbsp;</span></b><b>mich </b><br><b>auf gute Zusammenarbeit!<br></b><b>&nbsp;<br>Daniel Gessler</b><br>GESSLER - PRESS FEEDING SYSTEMS",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             ".mbr-section-title SPAN": {
@@ -119,18 +119,20 @@
               "color": "#a7bfc2"
             },
             ".mbr-section-title": {
-              "font-size": "24px",
+              "font-size": "22px",
               "color": "#a7bfc2"
             },
             ".mbr-section-text": {
               "font-size": "14px",
-              "color": "#ffffff"
+              "color": "#efefef"
             },
             ".mbr-section-text SPAN": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "color": "#efefef"
             },
             ".mbr-section-text B": {
-              "font-size": "17px"
+              "font-size": "17px",
+              "color": "#efefef"
             },
             ".mbr-section-title I": {
               "font-size": "14px"
@@ -145,6 +147,9 @@
             ".iconbox": {
               "background-color": "#efefef",
               "border-color": "#efefef"
+            },
+            "H4": {
+              "color": "#475577"
             }
           },
           "_tags": [
@@ -179,12 +184,12 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "phone",
-              "family": "et-line",
+              "name": "features",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "index.html#features4-b",
-              "size": 98,
-              "color": "black",
+              "size": "65",
+              "color": "#4c6972",
               "newWindow": false
             }
           },
@@ -200,8 +205,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
-              "size": 98,
-              "color": "#000000",
+              "size": "65",
+              "color": "#4c6972",
               "newWindow": false
             }
           },
@@ -437,7 +442,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#5c5d60",
+            "bgColor": "#28324e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,

@@ -422,18 +422,20 @@ h6,
   color: #a7bfc2;
 }
 #header2-l .mbr-section-title {
-  font-size: 24px;
+  font-size: 22px;
   color: #a7bfc2;
 }
 #header2-l .mbr-section-text {
   font-size: 14px;
-  color: #ffffff;
+  color: #efefef;
 }
 #header2-l .mbr-section-text SPAN {
   font-size: 20px;
+  color: #efefef;
 }
 #header2-l .mbr-section-text B {
   font-size: 17px;
+  color: #efefef;
 }
 #header2-l .mbr-section-title I {
   font-size: 14px;
@@ -444,6 +446,9 @@ h6,
 #features4-b .iconbox {
   background-color: #efefef;
   border-color: #efefef;
+}
+#features4-b H4 {
+  color: #475577;
 }
 #features1-k .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;

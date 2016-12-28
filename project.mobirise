@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "kontakt.html",
+    "currentPage": "home.html",
     "name": "Gessler",
     "theme": {
       "name": "mobirise3",
@@ -347,8 +347,8 @@
           "_anchor": "features1-w",
           "_params": {
             "columnsColor": "#ffffff",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -363,21 +363,21 @@
             "overlayColor": "#222",
             "columns": "2",
             "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
+            "showTitles": false,
+            "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vamco-600x480-53.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vamco1-600x171-16.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "http://www.vamcointernational.com/index.html",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "title1": "Bootstrap 4",
@@ -386,19 +386,19 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/zs-logo-600x117-2.jpg",
+              "src": "@PROJECT_PATH@/assets/images/zehnder-600x110-18.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "http://www.zehndersommer.com/home.html",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "<br>One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive <br>website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {

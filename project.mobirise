@@ -825,7 +825,7 @@
           "form": {
             "action": "grevemobile@live.com",
             "alerts": {
-              "success": "Vielen Dank für Ihre nachricht. Wir werden Sie schnellstmöglich kontaktieren."
+              "success": "Vielen Dank für Ihre Mitteilung. Ich werde Sie schnellstmöglich kontaktieren."
             },
             "fields": {
               "name": {

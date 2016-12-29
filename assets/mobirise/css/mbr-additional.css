@@ -678,3 +678,118 @@ h6,
   font-size: 16px;
   color: #7e9b9f;
 }
+
+
+
+#menu-12 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-12 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 8px;
+}
+#menu-12 .navbar-toggler {
+  color: #7e9b9f;
+}
+#menu-12 .link,
+#menu-12 .dropdown-item {
+  color: #7e9b9f;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-12 .link {
+  font-size: 0.8rem;
+}
+#menu-12 .dropdown-item,
+#menu-12 .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#menu-12 .link:hover,
+#menu-12 .dropdown-item:hover,
+#menu-12 .link:focus,
+#menu-12 .dropdown-item:focus {
+  color: #c1c1c1;
+}
+#menu-12 .link[aria-expanded="true"],
+#menu-12 .dropdown-menu {
+  background: #e6e6e6;
+}
+#menu-12 .nav-dropdown-sm .link:focus,
+#menu-12 .nav-dropdown-sm .link:hover,
+#menu-12 .nav-dropdown-sm .dropdown-item:focus,
+#menu-12 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu-12 .navbar,
+#menu-12 .nav-dropdown-sm,
+#menu-12 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-12 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#menu-12 .bg-color.transparent .link {
+  color: #7e9b9f;
+  transition: none;
+}
+#menu-12 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-12 .bg-color.transparent.opened .link:hover,
+#menu-12 .bg-color.transparent.opened .link:focus {
+  color: #c1c1c1;
+}
+#menu-12 .link[aria-expanded="true"],
+#menu-12 .dropdown-item[aria-expanded="true"] {
+  color: #c1c1c1!important;
+}
+#menu-12.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-12 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-12 .close-icon::before,
+#menu-12 .close-icon::after {
+  background-color: #7e9b9f;
+}
+#footer1-13 P {
+  text-align: center;
+  font-size: 10px;
+  color: #8690ab;
+}
+#form1-14 .form-control-label {
+  color: #232323;
+}
+#form1-14 .mbr-section-title {
+  text-align: left;
+  color: #c1c1c1;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
+}
+#form1-14 SMALL {
+  text-align: center;
+  font-size: 16px;
+  color: #53596b;
+}
+#form1-14 .mbr-section-title SPAN {
+  text-align: left;
+}
+#form1-14 P {
+  font-size: 19px;
+  color: #53596b;
+}
+#contacts1-15 SPAN {
+  color: #cccccc;
+  font-size: 14px;
+}
+#contacts1-15 STRONG {
+  color: #7e9b9f;
+  font-size: 16px;
+}
+#contacts1-15 P {
+  color: #cccccc;
+  font-size: 14px;
+}
+#contacts1-15 B {
+  font-size: 16px;
+  color: #7e9b9f;
+}

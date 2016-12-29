@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "kontakt-e.html",
     "name": "Gessler",
     "theme": {
       "name": "mobirise3",
@@ -353,6 +353,9 @@
             },
             ".mbr-cards-col:nth-child(even) .card-text": {
               "color": "#53596b"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text SPAN": {
+              "font-size": "12px"
             }
           },
           "_anchor": "features1-w",
@@ -409,7 +412,7 @@
           },
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<br>Einer der erfahrendsten Schweizer Technologie-Entwickler in diesem Bereich und bekannt für innovative Präzisions-Lösungen höchster Qualität.<br><br>",
+          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1rem; line-height: 1.5;\">Einer der erfahrendsten Schweizer Technologie-Entwickler in diesem Bereich und bekannt für innovative Präzisions-Lösungen höchster Qualität.</span><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"http://www.zehndersommer.com/produkte/produktuebersicht.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INFO</a>",
           "media3": {
             "image": {
@@ -1090,7 +1093,7 @@
             "showSubTitle": true
           },
           "title": "",
-          "subtitle": "<p><b>S O R R Y</b></p><p>The international site of GESSLER Pree Feeding Systems is still</p><b>U N D E R &nbsp; C O N S T R U C T I O N</b><br><br>For further informations and/or requests please feel free to contact <br>us by telephone, e-mail or the following contact-form. Thank you.",
+          "subtitle": "<p><b>S O R R Y</b></p><p>The international site of GESSLER Press Feeding Systems is still</p><b>U N D E R &nbsp; C O N S T R U C T I O N</b><br><br>For further informations and/or requests please feel free to contact <br>us by telephone, e-mail or use the following contact-form. Thank you.",
           "form": {
             "action": "info@pfs-gessler.com",
             "alerts": {
@@ -1114,7 +1117,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Your Message"
+                "customTitle": "Your message"
               }
             }
           },

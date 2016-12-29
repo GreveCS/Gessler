@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "kontakt-e.html",
+    "currentPage": "home.html",
     "name": "Gessler",
     "theme": {
       "name": "mobirise3",
@@ -248,7 +248,7 @@
               "name": "features",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": "57",
               "color": "#4c6972",
               "newWindow": false
@@ -265,7 +265,7 @@
               "name": "extension",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": "57",
               "color": "#4c6972",
               "newWindow": false

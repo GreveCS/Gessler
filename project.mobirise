@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "kontakt-e.html",
     "name": "Gessler",
     "theme": {
       "name": "mobirise3",
@@ -23,7 +23,7 @@
     "versionFirst": "3.10.3",
     "uniqCompNum": 42,
     "versionPublish": "3.10.3",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/gessler-logo-128x56-92.jpg",
     "noImageResize": "",
     "google-analytics": "",
     "path": "@PROJECT_PATH@"
@@ -823,7 +823,7 @@
           "title": "",
           "subtitle": "<p><b><br></b></p><p><b>K O N T A K T</b><br></p><p>Sie haben eine wichtige Mitteilung?<br>Senden Sie uns einfach eine entsprechende Nachricht,&nbsp;<br>und&nbsp;wir werden Sie schnellstmöglich kontaktieren.</p>",
           "form": {
-            "action": "grevemobile@live.com",
+            "action": "info@pfs-gessler.com",
             "alerts": {
               "success": "Vielen Dank für Ihre Mitteilung. Ich werde Sie schnellstmöglich kontaktieren."
             },
@@ -1069,7 +1069,7 @@
               "text-align": "left"
             },
             "P": {
-              "font-size": "19px",
+              "font-size": "16px",
               "color": "#53596b"
             }
           },
@@ -1090,9 +1090,9 @@
             "showSubTitle": true
           },
           "title": "",
-          "subtitle": "<p><b style=\"color: rgb(140, 140, 140);\">S O R R Y</b><br></p><p><span style=\"color: rgb(140, 140, 140);\">The international site of GESSLER Pree Feeding Systems ist still</span></p><p><span style=\"color: rgb(140, 140, 140);\"><b>U N D E R &nbsp; C O N S T R U C T I O N </b>&nbsp;</span></p><br>For further informations and/or requests please feel free to contact us <br>by telephone, e-mail or the following contact-form. Thank you.",
+          "subtitle": "<p><b>S O R R Y</b></p><p>The international site of GESSLER Pree Feeding Systems is still</p><b>U N D E R &nbsp; C O N S T R U C T I O N</b><br><br>For further informations and/or requests please feel free to contact <br>us by telephone, e-mail or the following contact-form. Thank you.",
           "form": {
-            "action": "grevemobile@live.com",
+            "action": "info@pfs-gessler.com",
             "alerts": {
               "success": "Thank you for your note. We'll get back to you as soon as possible."
             },

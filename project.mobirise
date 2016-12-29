@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "kontakt.html",
     "name": "Gessler",
     "theme": {
       "name": "mobirise3",
@@ -817,11 +817,11 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
+            "showTitle": false,
             "showSubTitle": true
           },
           "title": "",
-          "subtitle": "<p><b>K O N T A K T</b><br></p><p>Sie haben eine wichtige Mitteilung?<br>Senden Sie uns einfach eine entsprechende Nachricht,&nbsp;<br>und&nbsp;wir werden Sie schnellstmöglich kontaktieren.</p>",
+          "subtitle": "<p><b><br></b></p><p><b>K O N T A K T</b><br></p><p>Sie haben eine wichtige Mitteilung?<br>Senden Sie uns einfach eine entsprechende Nachricht,&nbsp;<br>und&nbsp;wir werden Sie schnellstmöglich kontaktieren.</p>",
           "form": {
             "action": "grevemobile@live.com",
             "alerts": {

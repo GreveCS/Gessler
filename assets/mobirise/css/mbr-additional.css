@@ -448,24 +448,35 @@ h6,
 #header2-u .mbr-section-text P {
   font-size: 19px;
 }
-#features4-v .card-subtitle {
+#features4-11 .card-subtitle {
   color: #bcbcbc;
 }
-#features4-v .iconbox {
+#features4-11 .iconbox {
   background-color: #efefef;
   border-color: #efefef;
 }
-#features4-v H4 {
-  color: #475577;
+#features4-11 P {
+  color: #53596b;
+  font-size: 16px;
+}
+#features4-11 H4 {
+  color: #7e9b9f;
+  font-size: 18px;
+}
+#features4-11 SPAN {
+  font-size: 15px;
 }
 #features1-w .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ffffff;
 }
 #features1-w .mbr-cards-col:nth-child(odd) .card-text {
-  color: #232323;
+  color: #53596b;
 }
 #features1-w .mbr-cards-col:nth-child(odd) .card-title {
   color: #232323;
+}
+#features1-w .mbr-cards-col:nth-child(even) .card-text {
+  color: #53596b;
 }
 #social-buttons3-x .mbr-section-title,
 #social-buttons3-x .btn-social {

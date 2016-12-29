@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 37,
+    "uniqCompNum": 38,
     "versionPublish": "3.10.3",
     "favicon": "",
     "noImageResize": "",
@@ -201,29 +201,37 @@
               "background-color": "#efefef",
               "border-color": "#efefef"
             },
+            "P": {
+              "color": "#53596b",
+              "font-size": "16px"
+            },
             "H4": {
-              "color": "#475577"
+              "color": "#7e9b9f",
+              "font-size": "18px"
+            },
+            "SPAN": {
+              "font-size": "15px"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "features4",
-          "_anchor": "features4-v",
+          "_anchor": "features4-11",
           "_params": {
             "iconsBgColor": "#efefef",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/zs-1-2000x623-61.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "columns": "2",
@@ -231,7 +239,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "iconFont": {
@@ -240,16 +248,16 @@
               "name": "features",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "index.html#features4-b",
-              "size": "65",
-              "color": "#6996a4",
+              "link": "https://mobirise.com",
+              "size": "57",
+              "color": "#4c6972",
               "newWindow": false
             }
           },
-          "title1": "Beratung &amp; Verkauf",
+          "title1": "BERATUNG &nbsp;UND &nbsp;VERKAUF",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Verkauf, Service und Training<br><br>Schweizer Unternehmen mit deutschen Partnern<br><br>Unser Erfolg<br>Unser Erfolg baut auf die Zusammenarbeit mit treuen und langjährigen Liefereranten aus der Schweiz und Deutschland mit denen wir gemeinsam unsere Produkte entwickeln.<br><br>Unsere Vorschübe<br>Unsere Vorschübe sind auf der ganzen Welt bei vielen namhaften Firmen im Einsatz. Neben dem Direktverkauf kommen zahlreiche Vorschübe bei Erstausrüstern, integriert in deren Produkten, zum Einsatz.<br><br>Unsere Kunden<br>Unsere Kunden sind Qualitätsanbieter in den Branchen Automotive, Elektronik, Kontakt- und Leitertechnik, Kosmetik, Pharma, Haushalt, Bautechnik, Verpackung, Uhren und viele mehr.&nbsp;<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Vom hochwertigen Einzelsystem bis hin zur bedarfsgerecht angepassten individual-Lösung, GESSLER Press Feeding Systems bietet Ihnen genau, was Sie brauchen.&nbsp;</span><br><span style=\"font-size: 16px; line-height: 1.5;\">Dabei profitieren Sie nicht nur von umfassendem Know-How&nbsp;</span><br><span style=\"font-size: 16px; line-height: 1.5;\">und langjähriger Erfahrung. Denn dank der Kooperation mit weltweit führenden Anbietern im Bereich Vorschub-Technologie, steht GESSLER Press Feeding Systems zudem auch für verlässliche Qualität auf höchstem Niveau.&nbsp;</span><br><br>Ich freue mich auf Ihre Terminanfrage und ein erstes unverbindlichen Beratungsgespräch.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"home.html#contacts1-z\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -257,16 +265,16 @@
               "name": "extension",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
-              "size": "65",
-              "color": "#6fa3b3",
+              "link": "https://mobirise.com",
+              "size": "57",
+              "color": "#4c6972",
               "newWindow": false
             }
           },
-          "title2": "Service &amp; Instandsetzung",
+          "title2": "SERVICE &nbsp;UND &nbsp;INSTANDSETZUNG",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">In der hochwertigen Vorschubtechnologie wollen wir weltweit zum führenden und gesuchten Lösungsanbieter werden.</span><br><br>Mission<br>Wir denken unternehmerisch und handeln kundenorientiert. Unser Know-how erweitern wir laufend zur Optimierung unserer Kernkompetenzen.<br><br>Strategie<br>Mit innovativen und kundenorientierten Lösungen etablieren wir uns in Europa, Asien und Amerika innerhalb der nächsten fünf Jahre zum führenden Qualitätsanbieter in der Vorschubtechnologie.<br><br>Kernkompetenzen<br>Entwicklung, Herstellung und Vermarktung von Qualitätsprodukten mit innovativer Technik und funktionsorientiertem Design.<br><br>Werte<br>Zehnder &amp; Sommer steht für Präzision, Know-how und Glaubwürdigkeit. Dabei legen wir Wert auf einen nachhaltigen Umgang mit unseren Ressourcen. Ebenso wichtig ist uns ein partnerschaftlicher Umgang mit Kunden, Mitarbeitenden und Lieferanten.&nbsp;<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption2": "Nebst fachkundiger Beratung und dem Vertrieb leistungsstarker Technologieprodukte, umfasst das Angebot der GESSLER Press Feeding Systems natürlich auch weitreichende Service- und Support-Leistungen. <br>Von der Installation und Inbetriebnahme neuer Anlagen über Anwender-Einweisung und -Trainings bis hin zu Wartung, schneller Ersatzteil-Beschaffung und gewissenhafter Instandsetzung, erhalten Sie somit alles aus einer Hand.<br><br>Überzeugen Sie sich. Ich stehe Ihnen gerne auch für kurzfristigen Dienstleistungsaufträge zur Verfügung.&nbsp;<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"kontakt.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ANFRAGE</a>",
           "media3": {
             "iconFont": {
               "active": true,
@@ -338,16 +346,19 @@
               "background-color": "#ffffff"
             },
             ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#232323"
+              "color": "#53596b"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
               "color": "#232323"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#53596b"
             }
           },
           "_anchor": "features1-w",
           "_params": {
             "columnsColor": "#ffffff",
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
@@ -366,11 +377,11 @@
             "showTitles": false,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vamco1-600x171-16.png",
+              "src": "@PROJECT_PATH@/assets/images/vamco1-600x171-19.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -382,8 +393,8 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">MORE</a> ",
+          "caption1": "Nicht ohne Grund ist die VAMCO International Inc. der weltweit grösste und erforlgreichste Anbieter im Bereich HighSpeed-Vorschubtechnologie.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://www.vamcointernational.com/products.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INFO</a> ",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/zehnder-600x110-18.png",
@@ -398,8 +409,8 @@
           },
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<br>One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive <br>website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption2": "<br>Ein Schweizer Unternehmen mit deutschen Wurzeln und seit jeher ein Garant für innovative Präzisions-Technologie bester Qualität.<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.zehndersommer.com/produkte/produktuebersicht.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INFO</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
